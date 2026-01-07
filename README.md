@@ -1,14 +1,15 @@
-### 👋 Hey, I'm Osmii. </h2>
-I'm Osmii, your local high school student that does programming sometimes. I enjoy doing math, playing video games, and writing code. I mainly use [`TypeScript`](https://www.typescriptlang.org/) and am learning [`C/C++`](https://clang.org), [`Lua`](lua.org) and [`Go`](https://go.dev).
+### hai, i'm osmii :3 </h2>
+cat who was given a keyboard. now mostly uses it to do fullstack with typescript. allegedly familiar with c++, python, java. learning rust. contributes way too little to public projects. what does it even do all day.
 
-I also do CTFs sometimes. Mostly main cryptography (and web when needed).
+i also do CTFs sometimes. supposedly i main crypto but i always end up doing misc/web.
 
-#### 🌐 Website: [`osmii.dev`](https://osmii.dev)
+#### 🌐 website: [`osmii.dev`](https://osmii.dev) being redesigned when i have the time
 
-#### 📪 Ways to reach me
-- Twitter [`@OsmiiDev`](https://twitter.com/@OsmiiDev)
-- Discord [`Osmii#0076`](https://discord.com/users/328984108271140864)
-- Email [`osmii@osmii.dev`](mailto://osmii@osmii.sh)
+#### 📪 if you want to contact me you can reach me on
+- Discord [`Osmii`](https://discord.com/users/328984108271140864)
+- Signal [`Osmii.76`](https://signal.me/#eu/RVWVvcp41O5k5LPphUui0kliZk6_VjgEB3IJMQmOaVb7iXk4MytASpB3MTUtW0oY)
+- Twitter [`@cosmiolotl`](https://twitter.com/@cosmiolotl)
+
 
 ---
 
@@ -38,6 +39,6 @@ I also do CTFs sometimes. Mostly main cryptography (and web when needed).
 </p>
 <p align="center"> 
   <i>
-    Profile statistics courtesy of <a href="https://github.com/anuraghazra/github-readme-stats"> <code>Github README stats</code> </a>
+    profile statistics courtesy of <a href="https://github.com/anuraghazra/github-readme-stats"> <code>Github README stats</code> </a>
   </i>
 </p>
