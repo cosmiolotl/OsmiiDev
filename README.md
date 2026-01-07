@@ -16,26 +16,26 @@ i also do CTFs sometimes. supposedly i main crypto but i always end up doing mis
 <p align="center">
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=osmiidev&show_icons=true&theme=dark"
+      srcset="https://github-readme-stats.vercel.app/api?username=cosmiolotl&show_icons=true&theme=dark"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=osmiidev&show_icons=true"
+      srcset="https://github-readme-stats.vercel.app/api?username=cosmiolotl&show_icons=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=osmiidev&show_icons=true" height="128" />
+    <img src="https://github-readme-stats.vercel.app/api?username=cosmiolotl&show_icons=true" height="128" />
   </picture>
   
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=osmiidev&layout=compact&theme=dark"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=cosmiolotl&layout=compact&theme=dark"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=osmiidev&layout=compact"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=cosmiolotl&layout=compact"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osmiidev&layout=compact" height="128" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cosmiolotl&layout=compact" height="128" />
 </p>
 <p align="center"> 
   <i>
